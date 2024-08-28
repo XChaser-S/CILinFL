@@ -1,0 +1,5 @@
+tensorflow
+tqdm
+numpy
+math
+h5py
